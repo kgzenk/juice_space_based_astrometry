@@ -1,7 +1,7 @@
 # exclude everything
-juice_kernels/*
-cassini_kernels/*
+/juice_kernels/*
+/cassini_kernels/*
 
 # exception to the rule
-!juice_kernels/.gitkeep
-!cassini_kernels/.gitkeep
+!/juice_kernels/.gitkeep
+!/cassini_kernels/.gitkeep
