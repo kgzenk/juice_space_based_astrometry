@@ -1,7 +1,7 @@
-# exclude everything
-/juice_kernels/*
-/cassini_kernels/*
+# Exclude all kernel files
+src/core/tudat_setup_util/spice/juice_kernels/*
+src/misc/cassini_kernels/*
 
-# exception to the rule
-!/juice_kernels/.gitkeep
-!/cassini_kernels/.gitkeep
+# Exclude .gitkeep from being ignored
+!src/core/tudat_setup_util/spice/juice_kernels/.gitkeep
+!src/misc/cassini_kernels/.gitkeep
