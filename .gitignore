@@ -1,7 +1,9 @@
 # Exclude all kernel files
 src/core/tudat_setup_util/spice/juice_kernels/*
 src/misc/cassini_kernels/*
+tests/validation_data/juice_validation_data/*
 
 # Exclude .gitkeep from being ignored
 !src/core/tudat_setup_util/spice/juice_kernels/.gitkeep
 !src/misc/cassini_kernels/.gitkeep
+!tests/validation_data/juice_validation_data/.gitkeep
