@@ -2,7 +2,7 @@ Constraining the Ephemeris and Interior Structure of Io using Space-Based Astrom
 ==========================
 
 In the spirit of open science, this repository bundles all pieces of code and newly-created data that is necessary to 
-recreate the results presented in (DOI_WITH_LINK). 
+recreate the results presented in [https://doi.org/10.1016/j.pss.2025.106112](https://doi.org/10.1016/j.pss.2025.106112).
 First, for the sake of completeness, while not providing any new information to the avid reader of the original paper, 
 the abstract once again summarises the work's main points. 
 Subsequently, we outline any required software packages and additional external data (such as the SPICE kernels of 
