@@ -25,7 +25,7 @@ satellites. To mitigate this imbalance, optical space-based astrometry from JUIC
 To quantify the contribution of JUICE astrometry, we have performed the inversion of simulated optical astrometric 
 observations by JUICE, using suitable a priori covariance to represent the radio-science-only solution. 
 Incorporating the astrometry into the ephemeris solution requires the consideration of the offset between Io's 
-centre-of-figure(COF, which astrometry measures) and the centre-of-mass (COM, which the ephemeris solution requires). 
+centre-of-figure (COF, which astrometry measures) and the centre-of-mass (COM, which the ephemeris solution requires). 
 We explicitly account for the offset between COF and COM as an estimated parameter in our model.
 
 We assess the contribution of the optical observations to the ephemeris solution as a function of the radio science 
